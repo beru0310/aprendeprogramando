@@ -1,0 +1,112 @@
+h1 {
+	font-family:  Courier, serif;
+	font-size: 30px;
+	color: #7D3C98;
+	text-indent: 40px;
+}
+
+h2, h3{
+		font-family: Georgia, serif;
+		font-size: 20px;
+		color: #C39BD3;
+		text-indent: 20px
+}
+
+img {
+	  float: left;
+	  margin: 10px;
+	  border-radius: 20%;
+	  position: static;
+}
+
+body {
+	  font-size: 20px;
+}
+
+.seccion {
+		  width:900px;
+		  background: #FFFFFF;
+		  margin-top: 10px;
+		  border-radius: 5px;
+		  margin-left: 500px;
+		  }
+
+#caja ul li{
+		  font-size: 22px;
+		  color: #D2B4DE;
+}
+
+div#menu ul,#content ul {
+			list-style: none;
+}
+
+#content ul li{
+			   border-bottom-style: inset; border-width: 1px; max-width: 800px;
+			   border-color: #E8DAEF;
+}
+
+#content{
+		 height: 350px;
+		 padding-bottom: 20px;
+		 padding-top: 2px;
+}
+
+#caja{
+	  height: 300px;
+	  padding-top:5px;
+	  padding-bottom: 15px;
+}
+
+#portfolio{
+		 height: 150px;
+		 padding-top: 5px;
+
+}
+
+#portfolio ul,#conocimiento ul{
+			  list-style: none;
+}
+
+#content h3, p{
+			   text-indent: 20px;
+}
+
+#conocimiento{
+		 	  height: 150px;
+		 	  padding-bottom: 1px;
+		 	  padding-top: 2px;
+}
+
+div#menu{
+		 width:200px;
+		 margin-top: 50px;
+		 padding: 0px;
+		 margin: 0px;
+		 float: left;
+}
+
+div#menu ul li{
+			   margin-top: 10px;
+			   font-family: tahoma;
+			   font-size: 25px;
+			   background-color: #FDEDEC;
+			   width: 180px;
+			   padding-top: 15px;
+			   padding-bottom: 15px;
+			   padding-left: 20px;
+			   box-shadow: 8px 0px 10px #939393;
+			   -webkit-transition:padding-left 0.6s;
+			   color: #000000;
+}
+
+div#menu ul li:hover{
+					padding-left: 50px;
+} 
+
+#margen{
+		margin-left: 10px;
+}
+
+.slider{
+		margin-left: 40px;
+}
